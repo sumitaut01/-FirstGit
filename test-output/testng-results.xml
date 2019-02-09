@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19842" started-at="2019-02-09T18:04:22Z" finished-at="2019-02-09T18:04:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19842" started-at="2019-02-09T18:04:22Z" finished-at="2019-02-09T18:04:42Z">
+      <class name="FirstGitPack.FirstGitClassTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:FirstGitPack.FirstGitClassTest@6d8a00e3]" name="f" duration-ms="19809" started-at="2019-02-09T23:34:22Z" finished-at="2019-02-09T23:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- FirstGitPack.FirstGitClassTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
